@@ -1,0 +1,12 @@
+{
+    "name": "royalcodes/firstpakage",
+    "description": "it's my first package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohammad",
+            "email": "m.bagri90@gmail.com"
+        }
+    ],
+    "require": {}
+}
